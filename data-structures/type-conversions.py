@@ -13,7 +13,6 @@ enter number2: 20
 
 '''
 
-
 a = input('enter number1: ')
 b = input('enter number2: ')
 
