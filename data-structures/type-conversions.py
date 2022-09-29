@@ -13,14 +13,8 @@ enter number2: 20
 
 '''
 
-<<<<<<< HEAD
-
 a = input('enter number-a: ')
 b = input('enter number-b: ')
-=======
-a = input('enter number1: ')
-b = input('enter number2: ')
->>>>>>> 5573e9dd985267d3b00d046284d436689ef957c3
 
 print(type(a))      # print type of 'a'
 print(type(b))      # print type of 'b'
