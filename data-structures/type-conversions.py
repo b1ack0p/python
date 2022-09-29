@@ -1,5 +1,5 @@
-x = input('enter number1: ')
-y = input('enter number2: ')
+x = input('enter number-x: ')
+y = input('enter number-y: ')
 
 sum = x + y
 
@@ -14,8 +14,8 @@ enter number2: 20
 '''
 
 
-a = input('enter number1: ')
-b = input('enter number2: ')
+a = input('enter number-a: ')
+b = input('enter number-b: ')
 
 print(type(a))      # print type of 'a'
 print(type(b))      # print type of 'b'
