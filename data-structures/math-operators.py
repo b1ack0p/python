@@ -6,8 +6,8 @@
 #   -       |   Subtraction
 #   *       |   Multiply
 #   /       |   Divide
-#   **      |   Exponential form (uslu sayilar)
-#   //      |   Full divide (tam bolme) - no floating result
+#   **      |   Exponential form
+#   //      |   Full divide - no floating output
 #   %       |   Mod
 
 print(2*0.5)
